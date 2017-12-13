@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513178621 source:c:\users\huic yang\desktop\magicsquare\magicsquare\main.cpp
+	"magic_square.h"
+
+1513178701 c:\users\huic yang\desktop\magicsquare\magicsquare\magic_square.h
+	<cstdio>
+	<cstring>
+
