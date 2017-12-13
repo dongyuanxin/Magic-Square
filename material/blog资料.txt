@@ -1,0 +1,4 @@
+各阶幻方的构造算法：http://www.cnblogs.com/Open_Source/archive/2013/02/22/2922031.html
+
+
+幻方算法：http://blog.csdn.net/tengweitw/article/details/17687377
